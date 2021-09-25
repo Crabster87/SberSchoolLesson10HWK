@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SberSchoolLesson10HWK</string>
+    <string name="check_box_rectangle">Rectangle</string>
+    <string name="check_box_line">Line</string>
+    <string name="check_box_curve">Curve</string>
+    <string name="check_box_zoom">Zoom</string>
+    <string name="check_box_white">White</string>
+    <string name="check_box_red">Red</string>
+    <string name="check_box_yellow">Yellow</string>
+    <string name="button_reset_canvas">RESET CANVAS</string>
+</resources>
